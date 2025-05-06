@@ -21,6 +21,18 @@ I align architecture with strategy — enabling organizations to **scale**, **in
 `Information Systems Architecture` • `Cloud & Edge Strategy` • `Digital Transformation`  
 `Security by Design` • `DevOps Culture` • `Generative AI & Innovation Management`
 
+### 🖥️ Front End
+![React](https://img.shields.io/badge/react-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495E?style=for-the-badge&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🏛️ Architecture
+![UML](https://img.shields.io/badge/UML-007ACC?style=for-the-badge&logo=uml&logoColor=white)
+![C4 Model](https://img.shields.io/badge/C4%20Model-007ACC?style=for-the-badge&logo=c4model&logoColor=white)
+![Mermaid](https://img.shields.io/badge/mermaid-8E44AD?style=for-the-badge&logo=mermaid&logoColor=white)
+
 ### ⚙️ Backend & APIs
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -28,6 +40,7 @@ I align architecture with strategy — enabling organizations to **scale**, **in
 ![Prisma](https://img.shields.io/badge/prisma-0A96C4?style=for-the-badge&logo=prisma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 ### 📊 Data & AI
 
@@ -56,7 +69,7 @@ I align architecture with strategy — enabling organizations to **scale**, **in
 - Architectures for hybrid cloud + edge computing
 
 ## 📫 How to reach me
-You can reach out directly through GitHub.
+You can reach me out directly through GitHub.
 
 ---
 
